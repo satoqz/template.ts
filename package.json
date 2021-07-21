@@ -22,7 +22,7 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"@types/node": "^15.14.0",
+		"@types/node": "^16.4.0",
 		"eslint": "^7.29.0",
 		"eslint-config-subaru": "^1.1.5",
 		"nodemon": "^2.0.9",
